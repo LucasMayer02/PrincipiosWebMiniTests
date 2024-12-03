@@ -1,0 +1,5 @@
+É o processo de gerenciar mudanças ao longo do tempo em um código fonte,
+permitindo a criação de  diversas versões e que várias pessoas possam
+trabalhar ao mesmo tempo no mesmo código sem que se tenha código 
+sobrescrito, ajudando a aumentar muito a eficiente e permitindo a 
+criação de softwares cada vez mais robustos e complexos.

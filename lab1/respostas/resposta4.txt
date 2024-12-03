@@ -1,0 +1,4 @@
+Javascript é hoje a linguagem mais utilizada do front end por
+sua capacidade de páginas da web dinâmicas, interativas e responsivas.
+O fato de rodar diretamente no navegador a torna muito rápida e
+eficiente, podendo ser incorporado com HTML e diversas outras tecnologias.

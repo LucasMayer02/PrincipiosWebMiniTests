@@ -1,0 +1,7 @@
+REST foi uma arquitetura muito importante para se popularizar um padrão
+de acesso dos recursos web através de metodos HTTP :
+GET, POST, PUT e DELETE. A computação em nuvem foi essencial para
+o escalamento e alcance de serviços fornecidos online.
+o React é uma biblioteca hoje extremamente utilizada para criação de
+interfaces interativas que atualiza elementos individuais aumentando
+a performance.

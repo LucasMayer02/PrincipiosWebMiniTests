@@ -1,0 +1,9 @@
+O "World Wide Web e o HTML foram essenciais para o surgimento do
+que conhecemos como Web 1.0, onde o "WWW" permitiu que documentos 
+se interligassem através de hipertexto criado por causa da necessidade
+de pesquisadores em diferentes partes do mundo precisarem se comunicar
+de forma mais eficiente. O HTML foi então a primeira linguagem em 
+contexto web que permitiu a organização do conteúdo dentro da web,
+e mesmo sendo um conteúdo estático e simples, foi muito importante
+nesse primeiro momento da evolução Web, tornando a internet uma 
+ferramenta muito mais poderosa de disseminação de informação.

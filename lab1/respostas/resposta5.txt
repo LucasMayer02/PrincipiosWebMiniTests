@@ -1,0 +1,9 @@
+Primeiramente ter conhecimento das capacidades atuais de cada um 
+para se ter noção com o que se pode trabalhar inicialmente e o que se 
+pode ser aprendido ao longo do projeto. O GitHub será uma ferramenta
+fundamental para a sincronização do trabalho da dupla. Se algum 
+integrante possuir conhecimento prévio em alguma ferramenta de back-end
+ou front-end dentro do desenvolvimento web e esteja disposto a 
+compartilhar o conhecimento com sua dupla, pode ser um bom caminho de
+escolha em qual tecnologia utilizar para a realização do projeto.
+Desde o início será importante se adaptar às capacidades de cada um.
